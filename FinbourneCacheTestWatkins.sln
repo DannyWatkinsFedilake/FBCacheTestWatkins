@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finb.Utils.MemCache", "Finb.Utils.MemCache\Finb.Utils.MemCache.csproj", "{E5B385C9-3FE5-47ED-B41F-0722A71C42F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finb.Utils.MemCache.Tests", "Finb.Utils.MemCache.Tests\Finb.Utils.MemCache.Tests.csproj", "{D01DE578-2E45-4569-B726-6424141AC5A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5B385C9-3FE5-47ED-B41F-0722A71C42F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B385C9-3FE5-47ED-B41F-0722A71C42F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B385C9-3FE5-47ED-B41F-0722A71C42F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B385C9-3FE5-47ED-B41F-0722A71C42F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D01DE578-2E45-4569-B726-6424141AC5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01DE578-2E45-4569-B726-6424141AC5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01DE578-2E45-4569-B726-6424141AC5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01DE578-2E45-4569-B726-6424141AC5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50054D87-4E9E-4D93-8B4E-1B829A422129}
+	EndGlobalSection
+EndGlobal
